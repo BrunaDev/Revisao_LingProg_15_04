@@ -1,0 +1,2 @@
+Iniciando um conflito.
+Arquivo modificado localmente.
